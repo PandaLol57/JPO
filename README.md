@@ -1,2 +1,2 @@
 # JPO
-Site internet
+Site internet des JPO du lycée
